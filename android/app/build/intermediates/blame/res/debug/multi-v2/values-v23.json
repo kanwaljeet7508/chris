@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Data/KanwalReact/MyVoluntierClone/myvoluntier-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Volumes/Data/KanwalReact/chrisProject/chris/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/3bb5c3303fee4a41f3efe1b3e5154fdd/res/values-v23/values-v23.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/4dd9afd23470d9c2129675c850231a5a/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1ec5a02fcba5b0be6a17f8ccb46fd520/res/values-v23/values-v23.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/c8f6d645e727059f07f56750cd703d19/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
