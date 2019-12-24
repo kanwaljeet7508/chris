@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CD2F6DBF-AA69-4B66-B8AF-268DB9037C2B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD2F6DBF-AA69-4B66-B8AF-268DB9037C2B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myvoluntiermobileapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myvoluntiermobileapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace myvoluntiermobileapp with scheme myvoluntiermobileapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596725695.520913</real>
+			<key>timeStoppedRecording</key>
+			<real>596725697.78528404</real>
+			<key>title</key>
+			<string>Building workspace myvoluntiermobileapp with scheme myvoluntiermobileapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CD2F6DBF-AA69-4B66-B8AF-268DB9037C2B</string>
+		</dict>
+		<key>E80A6002-1549-4B20-B8C5-4778E46C7C41</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E80A6002-1549-4B20-B8C5-4778E46C7C41.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myvoluntiermobileapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myvoluntiermobileapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace myvoluntiermobileapp with scheme myvoluntiermobileapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596971841.83233595</real>
+			<key>timeStoppedRecording</key>
+			<real>596971844.56440401</real>
+			<key>title</key>
+			<string>Building workspace myvoluntiermobileapp with scheme myvoluntiermobileapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E80A6002-1549-4B20-B8C5-4778E46C7C41</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
